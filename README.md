@@ -1,7 +1,7 @@
 # code-for-gel-analysis
 code for analyzing binding structure
 
-The related paper is:
+The related papers are:
 
 1. Xinxiang Chen*, Jude Ann Vishnu, Pol Besenius, Julian König, Friederike Schmid*, Dilute but dense – Reversible crosslinking enables water-rich (bio)polymer condensates, Advanced Science, e19636 (2026), DOI: https://doi.org/10.1002/advs.202519636.
 
