@@ -18,4 +18,7 @@ pip install gsd freud numpy pandas matplotlib
 If you want to calculate the Rg for each cluster:
 
 
+
 If you want to calculate the character of spanning cluster:
+
+use file: get_percolation_character.py
